@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Staatliches');
+
+.title {
+  display: flex;
+  justify-content: space-around;
+}
+
+.title h1 {
+  font-family: 'Staatliches', sans-serif;
+}

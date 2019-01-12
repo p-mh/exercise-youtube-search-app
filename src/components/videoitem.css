@@ -1,0 +1,18 @@
+.videoItem {
+  margin-bottom: 20px;
+  border-bottom: #000 1px solid;
+}
+
+.videoItem:last-of-type {
+  border-bottom: none;
+}
+
+.videoItem img {
+  width: 100%;
+  cursor: pointer;
+}
+
+.videoItem .titlestyle {
+  margin-top: 10px;
+  font-weight: bold;
+}
